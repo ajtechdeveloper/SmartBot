@@ -9,10 +9,6 @@ install:
     - pip install pandas
     - pip install scikit-learn
 script: 
-    - python
-    - import nltk
-    - nltk.download('punkt')
-    - nltk.download('averaged_perceptron_tagger')
-    - nltk.download("stopwords")
+    - python -c "import nltk; nltk.download('punkt'); nltk.download('averaged_perceptron_tagger'); nltk.download('stopwords')"
     - python setup.py build
     - python setup.py install
