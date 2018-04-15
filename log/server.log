@@ -1,0 +1,24 @@
+2018-04-15 21:55:19,237 MainThread -----------------------------
+2018-04-15 21:55:19,237 MainThread --  Starting the BotServer     --
+2018-04-15 21:55:19,237 MainThread Server Listener set up on port 3333
+2018-04-15 21:55:19,237 MainThread Main Server waiting for a connection
+2018-04-15 22:24:39,108 MainThread -----------------------------
+2018-04-15 22:24:39,108 MainThread --  Starting the BotServer     --
+2018-04-15 22:24:39,108 MainThread Server Listener set up on port 3333
+2018-04-15 22:24:39,108 MainThread Main Server waiting for a connection
+2018-04-15 22:24:42,862 MainThread Connect Received <socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 3333), raddr=('127.0.0.1', 53497)> ('127.0.0.1', 53497)
+2018-04-15 22:24:42,877 MainThread Main Server waiting for a connection
+2018-04-15 22:24:42,877 Thread-1 Starting Bot session-thread...
+2018-04-15 22:24:42,877 Thread-1    session-thread connecting to database...
+2018-04-15 22:24:42,877 Thread-1    ...connected
+2018-04-15 22:25:01,750 Thread-1    Closing Session
+2018-04-15 22:43:39,262 MainThread -----------------------------
+2018-04-15 22:43:39,262 MainThread --  Starting the BotServer     --
+2018-04-15 22:43:39,262 MainThread Server Listener set up on port 3333
+2018-04-15 22:43:39,262 MainThread Main Server waiting for a connection
+2018-04-15 22:44:42,921 MainThread Connect Received <socket.socket fd=164, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 3333), raddr=('127.0.0.1', 53763)> ('127.0.0.1', 53763)
+2018-04-15 22:44:42,921 MainThread Main Server waiting for a connection
+2018-04-15 22:44:42,921 Thread-1 Starting Bot session-thread...
+2018-04-15 22:44:42,921 Thread-1    session-thread connecting to database...
+2018-04-15 22:44:42,936 Thread-1    ...connected
+2018-04-15 22:45:00,265 Thread-1    Closing Session
